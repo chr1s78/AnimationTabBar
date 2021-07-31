@@ -13,6 +13,7 @@
 		AA4903F726B5665E00F99941 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AA4903F626B5665E00F99941 /* Preview Assets.xcassets */; };
 		AA49040226B5665E00F99941 /* AnimationTabBarTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA49040126B5665E00F99941 /* AnimationTabBarTests.swift */; };
 		AA49040D26B5665F00F99941 /* AnimationTabBarUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA49040C26B5665F00F99941 /* AnimationTabBarUITests.swift */; };
+		AA49041B26B5A86200F99941 /* MyTestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA49041A26B5A86200F99941 /* MyTestView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		AA49040826B5665F00F99941 /* AnimationTabBarUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AnimationTabBarUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AA49040C26B5665F00F99941 /* AnimationTabBarUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationTabBarUITests.swift; sourceTree = "<group>"; };
 		AA49040E26B5665F00F99941 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AA49041A26B5A86200F99941 /* MyTestView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTestView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 			children = (
 				AA4903EF26B5665D00F99941 /* AnimationTabBarApp.swift */,
 				AA4903F126B5665D00F99941 /* ContentView.swift */,
+				AA49041A26B5A86200F99941 /* MyTestView.swift */,
 				AA4903F326B5665E00F99941 /* Assets.xcassets */,
 				AA4903F826B5665E00F99941 /* Info.plist */,
 				AA4903F526B5665E00F99941 /* Preview Content */,
@@ -261,6 +264,7 @@
 			files = (
 				AA4903F226B5665D00F99941 /* ContentView.swift in Sources */,
 				AA4903F026B5665D00F99941 /* AnimationTabBarApp.swift in Sources */,
+				AA49041B26B5A86200F99941 /* MyTestView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
